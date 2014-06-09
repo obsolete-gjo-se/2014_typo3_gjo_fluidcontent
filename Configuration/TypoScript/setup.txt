@@ -1,0 +1,11 @@
+[GLOBAL]
+plugin.tx_gjofluidcontent.view {
+
+    templateRootPath = EXT:gjo_fluidcontent/Resources/Private/Templates/
+	partialRootPath = EXT:flux/Resources/Private/Partials/
+	layoutRootPath = EXT:fluidcontent/Resources/Private/Layouts/
+}
+
+plugin.tx_gjofluidcontent.settings {
+	gridColumns = {$plugin.tx_gjofluidcontent.settings.gridColumns}
+}
