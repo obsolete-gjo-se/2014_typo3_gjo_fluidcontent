@@ -562,123 +562,70 @@
                 </trans-unit>
 
 
-            ##########################
-            ### CFM-Module 01 meins     ###
-            ##########################
-
-
-                <trans-unit id="flux.cfmmoduleone" xml:space="preserve">
-                    <source>CFM: Module 1</source>
-                </trans-unit>
-                <trans-unit id="flux.cfmmoduleone.description" xml:space="preserve">
-                    <source>Beschreibung CFM-Module 1</source>
-                </trans-unit>
-                <trans-unit id="flux.cfmmoduleone.areas.content" xml:space="preserve">
-                    <source>CFM areas content</source>
-                </trans-unit>
-
-
-            ##########################
-            ### CFM-Module 01      ###
+           ##########################
+            ### CFM-Module 1       ###
             ##########################
 
 
                 <trans-unit id="flux.module1" xml:space="preserve">
-                    <source>CFM: Module 1</source>
+                    <source>CFM Module 1</source>
                 </trans-unit>
                 <trans-unit id="flux.module1.description" xml:space="preserve">
-                    <source>Beschreibung CFM-Module 1</source>
-                </trans-unit>
-                <trans-unit id="flux.module1.areas.content" xml:space="preserve">
-                    <source>CFM areas content</source>
-                </trans-unit>
-
-            ##########################
-            ### CFM-Module 01a      ###
-            ##########################
-
-
-                <trans-unit id="flux.module1a" xml:space="preserve">
-                    <source>CFM: Module 1a</source>
-                </trans-unit>
-                <trans-unit id="flux.module1a.description" xml:space="preserve">
-                    <source>Beschreibung CFM-Module 1a</source>
-                </trans-unit>
-                <trans-unit id="flux.module1a.areas.content" xml:space="preserve">
-                    <source>CFM areas content</source>
-                </trans-unit>
-
-            ##########################
-            ### CFM-Module 01b     ###
-            ##########################
-
-
-                <trans-unit id="flux.module1b" xml:space="preserve">
-                    <source>CFM Modul 1</source>
-                </trans-unit>
-                <trans-unit id="flux.module1b.description" xml:space="preserve">
-                    <source>Rechts: überschrift und Text, Links: Text, Bild, oder Slider</source>
-                </trans-unit>
-
-                <trans-unit id="flux.module1b.areas.content" xml:space="preserve">
-                    <source>Text / Bilder / Slider</source>
-                </trans-unit>
-
-            ### Fields ###
-                <trans-unit id="flux.module1b.fields.title" xml:space="preserve">
-                    <source>Überschrift (H2)</source>
-                </trans-unit>
-                <trans-unit id="flux.module1b.fields.titlesmall" xml:space="preserve">
-                    <source>Überschrift, klein (H3)</source>
-                </trans-unit>
-                <trans-unit id="flux.module1b.fields.maintext" xml:space="preserve">
-                    <source>Text (links)</source>
+                    <source>Links: Überschrift und Text | Rechts: Text oder Bild oder Slider</source>
                 </trans-unit>
 
             ### Tabs ###
 
-                <trans-unit id="flux.module1b.sheets.leftcontent" xml:space="preserve">
-                    <source>Inhalt (links)</source>
+                <trans-unit id="flux.module1.sheets.leftContent" xml:space="preserve">
+                    <source>Inhalte (links)</source>
                 </trans-unit>
-                <trans-unit id="flux.module1b.sheets.rightcontent" xml:space="preserve">
-                    <source>Inhalt (rechts)</source>
+                <trans-unit id="flux.module1.sheets.rightContent" xml:space="preserve">
+                    <source>Inhalte (rechts)</source>
                 </trans-unit>
 
+            ### Fields left ###
 
-            ### Options ###
-            ### Content ###
-                # Objects #
-                <trans-unit id="flux.module1b.objects.text" xml:space="preserve">
+                <trans-unit id="flux.module1.fields.leftTitle" xml:space="preserve">
+                    <source>Überschrift</source>
+                </trans-unit>
+                <trans-unit id="flux.module1.fields.leftTitleSmall" xml:space="preserve">
+                    <source>Kleine Überschrift</source>
+                </trans-unit>
+                <trans-unit id="flux.module1.fields.leftText" xml:space="preserve">
                     <source>Text</source>
                 </trans-unit>
-                <trans-unit id="flux.module1b.objects.text.text" xml:space="preserve">
+
+            ### Fields right ###
+
+                <trans-unit id="flux.module1.fields.rightTextTitle" xml:space="preserve">
+                    <source>Überschrift</source>
+                </trans-unit>
+                <trans-unit id="flux.module1.fields.rightText" xml:space="preserve">
                     <source>Text</source>
                 </trans-unit>
 
-                <trans-unit id="flux.module1b.objects.image" xml:space="preserve">
+                <trans-unit id="flux.module1.fields.rightImageFile" xml:space="preserve">
                     <source>Bild</source>
                 </trans-unit>
-                <trans-unit id="flux.module1b.objects.image.file" xml:space="preserve">
-                    <source>Datei:</source>
-                </trans-unit>
-                <trans-unit id="flux.module1b.objects.image.alt" xml:space="preserve">
-                    <source>Alt-Text:</source>
+                <trans-unit id="flux.module1.fields.rightImageAlt" xml:space="preserve">
+                    <source>Bild - Alternativtext</source>
                 </trans-unit>
 
-                <trans-unit id="flux.module1b.objects.slider" xml:space="preserve">
-                    <source>Slider</source>
+                <trans-unit id="flux.module1.fields.rightSlideTitle" xml:space="preserve">
+                    <source>Überschrift (H2) (rechts)</source>
                 </trans-unit>
-                <trans-unit id="flux.module1b.objects.slide" xml:space="preserve">
-                    <source>Slide-Element</source>
+                <trans-unit id="flux.module1.fields.rightSlideText" xml:space="preserve">
+                    <source>Text (rechts)</source>
                 </trans-unit>
-                <trans-unit id="flux.module1b.sections.slides" xml:space="preserve">
-                    <source>Slide-Elemente</source>
+
+                <trans-unit id="flux.module1.objects.rightSlideElement" xml:space="preserve">
+                    <source>Slider-Element</source>
                 </trans-unit>
-                <trans-unit id="flux.module1b.objects.slide.title" xml:space="preserve">
-                    <source>Überschrift (H2)</source>
+                <trans-unit id="flux.module1.objects.rightSlideElement.rightSlideTitle" xml:space="preserve">
+                    <source>Überschrift</source>
                 </trans-unit>
-                <trans-unit id="flux.module1b.objects.slide.slidetext" xml:space="preserve">
-                    <source>Slide-Text</source>
+                <trans-unit id="flux.module1.objects.rightSlideElement.rightSlideText" xml:space="preserve">
+                    <source>Text</source>
                 </trans-unit>
 
 		</body>
