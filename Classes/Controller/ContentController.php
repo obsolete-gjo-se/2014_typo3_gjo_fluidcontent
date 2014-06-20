@@ -122,4 +122,24 @@ class ContentController extends AbstractContentController {
 
     }
 
+    /**
+     * @return string
+     */
+    public function cfmModuleOneAction() {
+
+    }
+    /**
+     * @return string
+     */
+
+    public function cfmModuleOne1aAction() {
+
+    }
+
+    /**
+     * @return string
+     */
+    public function cfmModuleOne1bAction() {
+
+    }
 }
