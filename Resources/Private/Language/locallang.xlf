@@ -368,7 +368,7 @@
 
 
             ##########################
-            ### NavigationList     ###
+            ### PageHeader         ###
             ##########################
 
 
@@ -559,73 +559,6 @@
                 </trans-unit>
                 <trans-unit id="flux.well.areas.content" xml:space="preserve">
                     <source>Content elements</source>
-                </trans-unit>
-
-
-           ##########################
-            ### CFM-Module 1       ###
-            ##########################
-
-
-                <trans-unit id="flux.module1" xml:space="preserve">
-                    <source>CFM Module 1</source>
-                </trans-unit>
-                <trans-unit id="flux.module1.description" xml:space="preserve">
-                    <source>Links: Überschrift und Text | Rechts: Text oder Bild oder Slider</source>
-                </trans-unit>
-
-            ### Tabs ###
-
-                <trans-unit id="flux.module1.sheets.leftContent" xml:space="preserve">
-                    <source>Inhalte (links)</source>
-                </trans-unit>
-                <trans-unit id="flux.module1.sheets.rightContent" xml:space="preserve">
-                    <source>Inhalte (rechts)</source>
-                </trans-unit>
-
-            ### Fields left ###
-
-                <trans-unit id="flux.module1.fields.leftTitle" xml:space="preserve">
-                    <source>Überschrift</source>
-                </trans-unit>
-                <trans-unit id="flux.module1.fields.leftTitleSmall" xml:space="preserve">
-                    <source>Kleine Überschrift</source>
-                </trans-unit>
-                <trans-unit id="flux.module1.fields.leftText" xml:space="preserve">
-                    <source>Text</source>
-                </trans-unit>
-
-            ### Fields right ###
-
-                <trans-unit id="flux.module1.fields.rightTextTitle" xml:space="preserve">
-                    <source>Überschrift</source>
-                </trans-unit>
-                <trans-unit id="flux.module1.fields.rightText" xml:space="preserve">
-                    <source>Text</source>
-                </trans-unit>
-
-                <trans-unit id="flux.module1.fields.rightImageFile" xml:space="preserve">
-                    <source>Bild</source>
-                </trans-unit>
-                <trans-unit id="flux.module1.fields.rightImageAlt" xml:space="preserve">
-                    <source>Bild - Alternativtext</source>
-                </trans-unit>
-
-                <trans-unit id="flux.module1.fields.rightSlideTitle" xml:space="preserve">
-                    <source>Überschrift (H2) (rechts)</source>
-                </trans-unit>
-                <trans-unit id="flux.module1.fields.rightSlideText" xml:space="preserve">
-                    <source>Text (rechts)</source>
-                </trans-unit>
-
-                <trans-unit id="flux.module1.objects.rightSlideElement" xml:space="preserve">
-                    <source>Slider-Element</source>
-                </trans-unit>
-                <trans-unit id="flux.module1.objects.rightSlideElement.rightSlideTitle" xml:space="preserve">
-                    <source>Überschrift</source>
-                </trans-unit>
-                <trans-unit id="flux.module1.objects.rightSlideElement.rightSlideText" xml:space="preserve">
-                    <source>Text</source>
                 </trans-unit>
 
 		</body>
