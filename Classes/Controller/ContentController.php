@@ -120,25 +120,5 @@ class ContentController extends AbstractContentController {
     public function wellAction() {
 
     }
-
-    /**
-     * @return string
-     */
-    public function cfmModuleOneAction() {
-
-    }
-    /**
-     * @return string
-     */
-
-    public function cfmModuleOne1aAction() {
-
-    }
-
-    /**
-     * @return string
-     */
-    public function cfmModuleOne1bAction() {
-
-    }
+    
 }
